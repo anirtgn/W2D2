@@ -1,0 +1,75 @@
+body {
+  font-style: 30px;
+  color: white;
+  text-align: center;
+}
+
+.container {
+  width: 1200px;
+  height: 1000px;
+  background-color: white;
+  margin: 0 auto;
+}
+
+.row {
+  margin: 1% 0;
+  overflow: auto;
+}
+
+.col {
+  float: left;
+  height: 70px;
+  text-align: center;
+  border: 1px solid black;
+  box-sizing: border-box;
+}
+
+.col-100 {
+  width: 100%;
+  background-color: green;
+}
+
+.col-90 {
+  width: 90%;
+  background-color: purple;
+}
+
+.col-10 {
+  width: 10%;
+  background-color: red;
+}
+
+.col-80{
+  width: 80%;
+  background-color: gray;
+}
+
+.col-20 {
+  width: 20%;
+  background-color: black;
+}
+
+.col-70 {
+  width: 70%;
+  background-color: blue;
+}
+
+.col-30 {
+  width: 30%;
+  background-color: turquoise;
+}
+
+.col-60 {
+  width: 60%;
+  background-color: pink;
+}
+
+.col-40 {
+  width: 40%;
+  background-color: orange;
+}
+
+.col-50 {
+  width: 50%;
+  background-color: silver;
+}
